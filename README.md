@@ -2,7 +2,31 @@
 
 A powerful icon theme extension for [Zed](https://zed.dev), brought to you by the team behind [vscode-icons](https://github.com/vscode-icons/vscode-icons). This extension uses the same codebase as `vscode-icons` to generate its icon manifest, ensuring consistency and comprehensive icon coverage.
 
-Enhance your Zed workspace with beautiful, expressive file and folder icons.
+Enhance your Zed workspace with beautiful, expressive file and folder icons in both dark and light modes, with multiple theme variations to match your development needs.
+
+## Theme Variations
+
+The extension comes with four distinct flavors, each available in both dark and light modes:
+
+1. **Standard Theme** (Dark/Light)
+   - Default theme with comprehensive icon coverage
+   - Perfect for general development work
+
+1. **Official Icons Theme** (Dark/Light)
+   - Features official logos and icons where available
+   - Includes official branding for JavaScript, TypeScript, and YAML files
+   - Perfect for developers who prefer official brand representations
+
+1. **Angular Theme** (Dark/Light)
+   - Specialized icons for Angular development
+   - Enhanced support for Angular-specific files (`.component.ts`, `.directive.ts`, etc.)
+   - Optimized for Angular projects and workspaces
+
+1. **NestJS Theme** (Dark/Light)
+   - Tailored for NestJS development
+   - Custom icons for NestJS-specific files and patterns
+   - Ideal for backend development with NestJS
+
 
 ## Features
 
