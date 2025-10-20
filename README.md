@@ -4,6 +4,8 @@ A powerful icon theme extension for [Zed](https://zed.dev), brought to you by th
 
 Enhance your Zed workspace with beautiful, expressive file and folder icons in both dark and light modes, with multiple theme variations to match your development needs.
 
+![Theme Preview](images/screenshot.png)
+
 ## Theme Variations
 
 The extension comes with four distinct flavors, each available in both dark and light modes:
